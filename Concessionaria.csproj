@@ -85,15 +85,18 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Img\bmwSerie1.jpg" />
-    <Content Include="Img\bmwX6.jpg" />
+    <Content Include="Img\bmwM3Coupe.jpg" />
+    <Content Include="Img\bmwSerie3-2021.jpg" />
+    <Content Include="Img\bmwSerie3.jpg" />
+    <Content Include="Img\bmwSerie4.jpg" />
+    <Content Include="Img\bmwSerie5.jpg" />
+    <Content Include="Img\bmwX5.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
